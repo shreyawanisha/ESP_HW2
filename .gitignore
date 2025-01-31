@@ -1,1 +1,15 @@
+# Maven output
+/target/
 
+# NetBeans-specific files
+nbproject/private/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore dependency JARs
+*.jar
